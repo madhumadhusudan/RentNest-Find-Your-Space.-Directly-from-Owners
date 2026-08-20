@@ -1,8 +1,10 @@
-# 🏡 RentNest — 100% Direct Owner Rental & Map-First Housing Platform
+# 🏡 RentNest — Direct Owner Rental & Map-First Housing Platform
 
 **Zero Brokerage • Direct Landlord Connections • Real-Time Interactive Map Search**
 
 ---
+<img width="1345" height="581" alt="Screenshot 2026-08-20 225339" src="https://github.com/user-attachments/assets/aa73319a-3103-4213-9c78-19bfeec36077" />
+
 
 ## 📌 1. Project Overview
 
@@ -24,6 +26,7 @@ By combining **interactive map exploration (with Leaflet & OpenStreetMap)**, **n
 ---
 
 ## 👥 3. User Roles & Account Types
+
 
 RentNest accommodates two primary user personas with specialized interfaces:
 
