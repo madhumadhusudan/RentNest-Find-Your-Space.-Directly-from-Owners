@@ -1,4 +1,4 @@
-# 🏡 RentNest-Find-Your-Space.-Directly-from-Owners
+# 🏡 RentNest Find-Your-Space-Directly-from-Owners
 
 **Zero Brokerage • Direct Landlord Connections • Real-Time Interactive Map Search**
 
